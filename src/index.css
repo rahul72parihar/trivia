@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    position: relative;
+    /* border: 20px solid green; */
+    width: 100vw;
+    background: url(components/background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color:#ccc;
+}
