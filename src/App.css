@@ -23,6 +23,9 @@ body{
     align-items: center;
     
 }
+.start--heading{
+    padding: 1em;
+}
 button{
     cursor: pointer;
     color: white;
